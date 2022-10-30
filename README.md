@@ -9,4 +9,4 @@
   </a>
 <h1>Contact :mailbox_with_mail:</h1>
 <h2>Email me:</h2>
-<a href="mailto:akshayan@afhstudio.ml?subject:Hello!"<h3>akshayan@afhstudio.ml</h3></a>
+<a href="mailto:akshayan@afhstudio.ml?subject=Hello!"<h3>akshayan@afhstudio.ml</h3></a>
