@@ -5,5 +5,5 @@
 <h4>• Founder of AFHStudio and Skyfade</h4>
 <h2>My Skills</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bots,cloudflare" />
   </a>
