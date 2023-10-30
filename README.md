@@ -9,4 +9,4 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,bots,cloudflare" />
   </a>
 <h1>Contact :mailbox_with_mail:</h1>
-<a href="mailto:akshayan@afhstudio.ml?subject=Hello!"<h2>akshayan@afhstudio.ml</h2></a>
+<a href="mailto:akshayan@afhstudio.ml?subject=Hello!"<h2>akshayan@afhstudio.link</h2></a>
