@@ -6,7 +6,7 @@
 <h3>• Developer of Sonic Crossover Racing 🎮</h3>
 <h1>My Skills</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bots,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bots,cloudflare,blender" />
   </a>
 <h1>Contact :mailbox_with_mail:</h1>
 <a href="mailto:akshayan@afhstudio.link?subject=Hello!"<h2>akshayan@afhstudio.link</h2></a>
